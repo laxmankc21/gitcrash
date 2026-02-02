@@ -1,1 +1,2 @@
-this is muy fole for git course
+this is muy fole for git coursegit 
+conent to file one 
